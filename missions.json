@@ -1,0 +1,842 @@
+[
+    {
+        "title": "In the Beginning",
+        "origin": "Los Santos",
+        "giver": "Carl Johnson",
+        "description": "Carl Johnson returns to Los Santos after living in Liberty City for five years. His brother Sweet Johnson informs him about his mother's death. When he reaches home, he gets captured by C.R.A.S.H. officers, who take his money and force him into their car before throwing him out within a Ballas territory.",
+        "objective": "Make the way back to Grove Street to receive the first mission.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Big Smoke",
+        "origin": "Los Santos",
+        "giver": "Carl Johnson",
+        "description": "Carl enters his home at Grove Street, where he recalls his childhood memories and finds his deceased mother's photo. Carl reunites with his childhood friend Big Smoke, who promises to avenge his mother's death by finding the killer.",
+        "objective": "Meet Big Smoke inside the Johnson House.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Sweet & Kendl",
+        "origin": "Los Santos",
+        "giver": "Carl Johnson",
+        "description": "Carl and Big Smoke go to a cemetery, where Carl reunites with his siblings Sweet and Kendl. Sweet blames Carl for their mother's death and explains what happened when Carl fled the city. As the gang leaves the cemetery, they are ambushed by the Ballas. They head back to Grove Street while escaping the Ballas.",
+        "objective": "Arrive at the cemetery in Temple and escape from a Ballas car using a BMX.",
+        "reward": "Respect\nJohnson House"
+    },
+    {
+        "title": "Ryder",
+        "origin": "Los Santos",
+        "giver": "Ryder",
+        "description": "Carl reunites with Ryder at his house on Grove Street. Ryder suggests that Carl should improve his physical appearance, so he makes him get a haircut. Afterwards, they try to deal with a pizzeria owner who keeps on spraying over Grove Street tags.",
+        "objective": "Go with Ryder to get a haircut at the barber shop and eat at the pizzeria.",
+        "reward": "Respect\nBarbers\nRestaurants\nTattoo Parlors"
+    },
+    {
+        "title": "Tagging Up Turf",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Carl visits Sweet and Big Smoke at Sweet's house. Sweet questions Carl about what made him return to the hood, and gives him a spray can to let him spray over some enemy graffiti. Sweet, however, changes his mind and decides to help him.",
+        "objective": "Spray over some Ballas tags.",
+        "reward": "Respect\nSpray Can inside the Johnson House"
+    },
+    {
+        "title": "Cleaning the Hood",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Sweet, Big Smoke and Ryder are discussing the rise in crack cocaine in the city. After a brief argument, Ryder and CJ decide to take care of the business.",
+        "objective": "Take out a drug dealer in the territory of the Grove and assault a Ballas crack den.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Drive-Thru",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Big Smoke, Sweet, and Ryder go to eat, and CJ joins them. They head to Cluckin' Bell and get some orders. While eating, they spot the same Ballas who chased them earlier heading towards Grove Street.",
+        "objective": "Visit Cluckin' Bell and stop the Ballas from getting to Grove Street.",
+        "reward": "Respect\n$200\nGyms"
+    },
+    {
+        "title": "Nines and AK's",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "CJ finds out that Grove Street Families currently have no weapons to defend themselves. Big Smoke and CJ go to pay a visit to Emmet, a member of Seville Boulevard Families, to practice some shooting.",
+        "objective": "Visit Emmet for some target practice and buy clothes at a Binco shop.",
+        "reward": "Respect\nEmmet's\nBinco, Sub Urban and ProLaps clothing"
+    },
+    {
+        "title": "Drive-By",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Ryder complains about CJ's driving skills, saying that CJ always crashes cars. Sweet, however, allows CJ to drive, while he, Ryder, and Big Smoke will ride shotgun. The gang drives to a territory of the Ballas for a drive-by.",
+        "objective": "Perform drive-by shootings on the Ballas.",
+        "reward": "$500\nRespect"
+    },
+    {
+        "title": "Sweet's Girl",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "CJ gets a phone call from Sweet who says that he and his girlfriend are trapped by the Seville Boulevard Families. CJ heads to rescue them before they die.",
+        "objective": "Save Sweet and his girl from an onslaught of the Seville Boulevard Families gang members.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Cesar Vialpando",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Sweet and Kendl argue about Kendl's relationship with Mexican gangster Cesar Vialpando, the Varrios Los Aztecas leader. Sweet tells Carl to keep an eye on her to avoid any danger.",
+        "objective": "Win the Lowrider Challenge.",
+        "reward": "$50-$1,000 (based on the wager)\nLoco Low Co.\nTransFender\nLowrider Challenge"
+    },
+    {
+        "title": "OG Loc",
+        "origin": "Los Santos",
+        "giver": "Big Smoke",
+        "description": "OG Loc is released from prison and CJ, Sweet, and Big Smoke go to the police station to pick him up. Loc reveals that a Mexican gangster, Freddy, raped him in jail and stole his rhymes. Loc goes to confront Freddy at his house.",
+        "objective": "Pick up OG Loc from jail, chase and kill Freddy, and take OG Loc to Burger Shot.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Running Dog",
+        "origin": "Los Santos",
+        "giver": "Big Smoke",
+        "description": "Smoke tells CJ that his cousin is arriving in the city from Mexico and he's going to pick her up. CJ and Smoke drive to East Los Santos where they confront two Vagos gangsters. After an argument between them, Smoke kills one member while CJ chases the other.",
+        "objective": "Chase down and kill a Los Santos Vagos gang member.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Wrong Side of the Tracks",
+        "origin": "Los Santos",
+        "giver": "Big Smoke",
+        "description": "Smoke informs CJ about a deal between the Vagos and San Fierro Rifa and decides to crash their meeting. After arriving at Unity Station, however, the Vagos attempt to escape by train, and Smoke and CJ give chase to stop them.",
+        "objective": "Disrupt a gang meeting and follow a train.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Just Business",
+        "origin": "Los Santos",
+        "giver": "Big Smoke",
+        "description": "Big Smoke has some business to take care of and goes with CJ to the Atrium in Commerce. After getting inside, they fight against the Russian Mafia.",
+        "objective": "Help Big Smoke fight against the Russian Mafia in the Atrium and then escape from them using the sewer system.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Home Invasion",
+        "origin": "Los Santos",
+        "giver": "Ryder",
+        "description": "Ryder can't find the drugs he buried inside his lawn. He asks Carl to steal weapon crates from a war veteran living in East Beach. At 22:00, they go for the robbery.",
+        "objective": "Rob a war veteran living in East Beach for weapons crates.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Catalyst",
+        "origin": "Los Santos",
+        "giver": "Ryder",
+        "description": "After failing to find the stuff he buried, Ryder prepares his drugs. C.R.A.S.H. arrives and informs that an ammo train will be arriving shortly at East Los Santos. However, when CJ and Ryder get to the location, the Vagos and the Ballas can be seen attempting to rob the train as well.",
+        "objective": "Steal crates of weapons from a train.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Robbing Uncle Sam",
+        "origin": "Los Santos",
+        "giver": "Ryder",
+        "description": "Ryder tells CJ that the army has many weapons. They both head to an army base in Ocean Docks to steal the army weapons.",
+        "objective": "Raid a National Guard base in the Ocean Docks area.",
+        "reward": "Respect"
+    },
+    {
+        "title": "High Stakes, Low-Rider",
+        "origin": "Los Santos",
+        "giver": "Cesar Vialpando",
+        "description": "CJ visits Cesar at his house and Cesar explains to him the rules of the street race they both are competing in.",
+        "objective": "Race Cesar Vialpando and other racers in the Lowrider Race.",
+        "reward": "$1000"
+    },
+    {
+        "title": "Life's a Beach",
+        "origin": "Los Santos",
+        "giver": "OG Loc",
+        "description": "CJ visits OG Loc, who is working at the Burger Shot in Marina. Loc is planning to host a house party, but he lacks a sound system. He tells CJ to steal a sound van from a beach party.",
+        "objective": "Steal a sound system Pony for OG Loc's house party.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Madd Dogg's Rhymes",
+        "origin": "Los Santos",
+        "giver": "OG Loc",
+        "description": "Although Loc has the sound system, he doesn't have rhymes to read for rapping. Loc asks CJ to steal a rhyme book owned by rapper Madd Dogg, which is found inside his mansion.",
+        "objective": "Steal Madd Dogg's rhyme book.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Management Issues",
+        "origin": "Los Santos",
+        "giver": "OG Loc",
+        "description": "Now that Loc has what he wants for his party, he still isn't satisfied. Loc reveals that Madd Dogg's manager Alan Crawford is preventing Loc from getting into music, becoming Loc's huge problem. Loc wants the manager killed.",
+        "objective": "Kidnap and kill Madd Dogg's manager and his girlfriend.",
+        "reward": "Respect"
+    },
+    {
+        "title": "House Party",
+        "origin": "Los Santos",
+        "giver": "OG Loc",
+        "description": "OG Loc quits the janitor job and decides to go back to prison, but wants to have the party before. He tells CJ to prepare everything for the party. CJ visits the party, but soon gets warned about an incoming attack from the Ballas on Grove Street. CJ and Sweet defend it.",
+        "objective": "Visit OG Loc's party and protect Grove Street from a Ballas attack.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Burning Desire",
+        "origin": "Los Santos",
+        "giver": "C.R.A.S.H.",
+        "description": "CJ reluctantly meets C.R.A.S.H at the doughnut shop. Tenpenny informs CJ about a Vagos gang member who is trying to get in their way and orders CJ to kill him.",
+        "objective": "Burn down a Vagos member's house and rescue a girl.",
+        "reward": "Denise Robinson as a girlfriend"
+    },
+    {
+        "title": "Gray Imports",
+        "origin": "Los Santos",
+        "giver": "C.R.A.S.H.",
+        "description": "Tenpenny informs CJ about a deal between the Ballas and Russians at the warehouse in Ocean Docks, and orders CJ to destroy the deal by killing the dealer.",
+        "objective": "Kill a Russian arms dealer.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Doberman",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "After a phone call from Sweet, CJ heads to Ammu-Nation to purchase some firearms to kill a former GSF member, who betrayed them and joined Ballas.",
+        "objective": "Take over Glen Park and kill the snitch.",
+        "reward": "Respect\nAmmu-Nation\nGang Warfare"
+    },
+    {
+        "title": "Los Sepulcros",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "The Ballas are holding a funeral for Little Weasel. Sweet and CJ decide to disrupt the funeral to kill the leader of the Front Yard Ballas.",
+        "objective": "Raid the funeral and kill the Ballas gang leader.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Reuniting the Families",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Sweet decides to reunite all the Grove Street gang sets that have been split up, as the Ballas have been dealing with the drugs for too long. The gang heads to Jefferson Motel where all the sets meet, but shortly after, they are ambushed by the police.",
+        "objective": "Take Sweet, Big Smoke, and Ryder to the meet to reunite the Grove Street Families and escape from the police.",
+        "reward": "Respect"
+    },
+    {
+        "title": "The Green Sabre",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Following the Grove Street Families reunion, Sweet decides to put justice against the Ballas. Sweet tells CJ to meet him at the gunfight between GSF and Ballas, but CJ is forced to meet Cesar, who reveals to him Big Smoke and Ryder's true colors.",
+        "objective": "Witness Smoke and Ryder's betrayal, then rush to rescue Sweet.",
+        "reward": "Access to Flint County, Whetstone, and San Fierro"
+    },
+    {
+        "title": "Badlands",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "C.R.A.S.H.",
+        "description": "After CJ is arrested and taken away from Los Santos, Tenpenny wants CJ to do tasks for him for Sweet's safety. In his first task, CJ has to kill an informant who has some information about Tenpenny and is hiding at Mount Chiliad guarded by the FBI.",
+        "objective": "Take out an FBI witness for Tenpenny.",
+        "reward": "N/A"
+    },
+    {
+        "title": "First Date",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Cesar calls CJ to tell him about his cousin, who can help him. CJ meets Cesar's cousin, Catalina, who gives him four targets for robberies that they will perform.",
+        "objective": "Meet Cesar's cousin. NOTE: Choose a Robbery mission listed below after the cutscene (Tanker Commander is recommended, because this mission takes place in Dillimore, which is the player's location, removing the need to travel to Dillimore and then away from it).",
+        "reward": "N/A"
+    },
+    {
+        "title": "Tanker Commander",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Hijack a petrol tanker in Dillimore.",
+        "objective": "Hijack a petrol tanker in Dillimore.",
+        "reward": "$5000"
+    },
+    {
+        "title": "Body Harvest",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "The Truth",
+        "description": "Tenpenny introduces The Truth to CJ and tells CJ to pay Truth for the weed. Before the payment, he wants CJ to steal a combine harvester from a farm in Flint County.",
+        "objective": "Steal a Combine Harvester for The Truth.",
+        "reward": "Respect"
+    },
+    {
+        "title": "King in Exile",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Cesar Vialpando",
+        "description": "CJ meets Cesar and Kendl inside the trailer in Angel Pine. Cesar informs CJ about some suspicious drug shipments across Los Santos and San Fierro. CJ tells Cesar to lay low while he will take care of them whenever he spots them.",
+        "objective": "Meet Cesar and Kendl again.",
+        "reward": "N/A"
+    },
+    {
+        "title": "First Base",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Catalina is furious at CJ for abandoning the robberies. CJ apologizes to her. While initially angry at him, Catalina shows some love toward CJ.",
+        "objective": "NOTE: Choose a Robbery mission listed below after the cutscene (Local Liquor Store is recommended).",
+        "reward": "N/A"
+    },
+    {
+        "title": "Local Liquor Store",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Rob a liquor store in Blueberry.",
+        "objective": "Rob a liquor store in Blueberry.",
+        "reward": "$1000"
+    },
+    {
+        "title": "Gone Courting",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Catalina shows her love for CJ by torturing him.",
+        "objective": "NOTE: Choose a Robbery mission listed below after the cutscene (Against All Odds is recommended).",
+        "reward": "N/A"
+    },
+    {
+        "title": "Against All Odds",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Rob the Inside Track betting shop in Montgomery.",
+        "objective": "Rob the Inside Track betting shop in Montgomery.",
+        "reward": "$2000"
+    },
+    {
+        "title": "Made in Heaven",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Catalina tells CJ that she does not love him anymore and wants to be just his partner.",
+        "objective": "NOTE: Choose a Robbery mission listed below after the cutscene (Small Town Bank is recommended).",
+        "reward": "N/A"
+    },
+    {
+        "title": "Small Town Bank",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Catalina",
+        "description": "Rob a bank in Palomino Creek.",
+        "objective": "Rob a bank in Palomino Creek.",
+        "reward": "$10000"
+    },
+    {
+        "title": "Wu Zi Mu",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Cesar Vialpando",
+        "description": "Cesar invites CJ for a race across Red County. Wu Zi Mu, the race organizer, arrives and says that this race will reward the winner with either cash or a pink slip.",
+        "objective": "Race against Wu Zi Mu.",
+        "reward": "$5000"
+    },
+    {
+        "title": "Farewell, My Love...",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "Cesar Vialpando",
+        "description": "Catalina confronts CJ again and introduces to him her new boyfriend, Claude. Calling CJ jealous and a coward, Catalina challenges him to a race.",
+        "objective": "Race against Catalina and her new boyfriend, Claude.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Are You Going to San Fierro?",
+        "origin": "Countryside Missions (Red County, Flint County, W",
+        "giver": "The Truth",
+        "description": "After being rewarded a garage in San Fierro, CJ meets The Truth at his farm and pays him for the weed. Later, both are ambushed by the police. Truth tells CJ that they must burn the weed and leave the place.",
+        "objective": "Burn down The Truth's cannabis plantation and drive to San Fierro.",
+        "reward": "Respect\n5-star wanted level achievable\nSafehouses in San Fierro purchasable\nZip clothing available"
+    },
+    {
+        "title": "Wear Flowers in Your Hair",
+        "origin": "San Fierro",
+        "giver": "Carl Johnson",
+        "description": "CJ doesn't like the reward he got for winning the race. Cesar and Kendl convince CJ by telling him that they will help him in making it into a garage. The Truth, who listened to the conversation, tells CJ that he has a few friends who can help CJ with the garage.",
+        "objective": "Pick up some friends of The Truth, who can help with the garage.",
+        "reward": "Zero RC shop purchasable"
+    },
+    {
+        "title": "555 We Tip",
+        "origin": "San Fierro",
+        "giver": "C.R.A.S.H.",
+        "description": "CJ receives a phone call from Tenpenny, who informs him about a district attorney who is causing problems for C.R.A.S.H. He tells CJ to secretly plant the weeds he got from The Truth into the DA's car.",
+        "objective": "Frame a district attorney that is causing Tenpenny problems, by posing as a valet and planting drugs in his car.",
+        "reward": "Valet Uniform available in wardrobe"
+    },
+    {
+        "title": "Deconstruction",
+        "origin": "San Fierro",
+        "giver": "Carl Johnson",
+        "description": "Kendl is angry with the workers at the construction site behind the garage for calling her a hooker. Cesar attempts to confront them, but CJ convinces Cesar to stay with her, telling him that he will take care of this.",
+        "objective": "Get revenge on some builders for calling Kendl a hooker by destroying portable buildings and burying the foreman.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Air Raid",
+        "origin": "San Fierro",
+        "giver": "Zero",
+        "description": "CJ visits Zero at his shop. Zero learns that his long-time rival Berkley is back. Berkley launches a full-scale attack on Zero by using RC Barons to destroy the transmitters on the rooftop.",
+        "objective": "Defend Zero's transmitters from Berkley's bombers.",
+        "reward": "$3000"
+    },
+    {
+        "title": "Supply Lines...",
+        "origin": "San Fierro",
+        "giver": "Zero",
+        "description": "Zero explains to CJ that Berkley humiliated him. CJ tells him to take revenge and asks what weapons Zero has, with Zero saying that he has a miniature plane, which both of them use to go after Berkley.",
+        "objective": "Kill Berkley's delivery boys.",
+        "reward": "$5000"
+    },
+    {
+        "title": "New Model Army",
+        "origin": "San Fierro",
+        "giver": "Zero",
+        "description": "Zero prepares for an ultimate battle against Berkley, where the loser must leave San Fierro for good.",
+        "objective": "Help Zero in an RC war.",
+        "reward": "$7000\nZero RC as an asset"
+    },
+    {
+        "title": "Photo Opportunity",
+        "origin": "San Fierro",
+        "giver": "Cesar Vialpando",
+        "description": "Cesar spots a Ballas car in Red County heading to San Fierro to buy drugs. After CJ meets Cesar, both head to Angel Pine where the car was seen previously.",
+        "objective": "Photograph the meeting between Ryder and the members of the Loco Syndicate.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Jizzy",
+        "origin": "San Fierro",
+        "giver": "Loco Syndicate",
+        "description": "CJ meets Cesar and Woozie at his garage. Woozie explains to CJ that the people CJ took photos of are the members of the Loco Syndicate, a drug-dealing gang. CJ decides to meet one of the members of Loco Syndicate, the pimp Jizzy B., who is found at the Pleasure Domes in Battery Point.",
+        "objective": "Go and meet Jizzy at his club.\nHelp Jizzy out with his pimping duties.",
+        "reward": "$3000\nRespect"
+    },
+    {
+        "title": "T-Bone Mendez",
+        "origin": "San Fierro",
+        "giver": "Loco Syndicate",
+        "description": "Jizzy argues with T-Bone Mendez about Jizzy's cut with the Loco Syndicate. CJ arrives and he is introduced to Mendez, but Mendez discovers that a shipment of drugs has been highjacked by bikers.",
+        "objective": "Retrieve some stolen cash from the bikers.",
+        "reward": "$5000\nRespect"
+    },
+    {
+        "title": "Mike Toreno",
+        "origin": "San Fierro",
+        "giver": "Loco Syndicate",
+        "description": "T-Bone receives a call from Mike Toreno, who says that he is in danger and needs help. The van containing the drug shipment is stolen with Toreno still inside. CJ and T-Bone go to rescue Toreno.",
+        "objective": "Find and rescue Mike Toreno.",
+        "reward": "$7000\nRespect"
+    },
+    {
+        "title": "Outrider",
+        "origin": "San Fierro",
+        "giver": "Loco Syndicate",
+        "description": "After getting orders from Jizzy, CJ gets in a car in Easter Basin, only to be ambushed by T-Bone from behind, as he suspects CJ to be working for someone else. CJ convinces T-Bone that he is only working for money. Toreno arrives and orders CJ to look after the shipment delivery.",
+        "objective": "Transport drugs past roadblocks.",
+        "reward": "$9000\nRespect"
+    },
+    {
+        "title": "Mountain Cloud Boys",
+        "origin": "San Fierro",
+        "giver": "Wu Zi Mu",
+        "description": "CJ meets Woozie at his apartment. Woozie explains that a Triad meeting that happened last time had some Triads missing. Woozie wants to meet those Triads.",
+        "objective": "Escort Woozie to a Triad meeting, then escape the Da Nang Boys.",
+        "reward": "$5000\nRespect"
+    },
+    {
+        "title": "Ran Fa Li",
+        "origin": "San Fierro",
+        "giver": "Wu Zi Mu",
+        "description": "CJ is introduced to Ran Fa Li, the leader of the Red Gecko Tong. Ran Fa Li explains that the Da Nang Boys are about to move to San Fierro. Woozie plans to stop them by allowing CJ to steal a car with a package inside from the airport.",
+        "objective": "Steal a car from the airport and take it to a lockup, escaping the Da Nang Boys.",
+        "reward": "$6000\nRespect"
+    },
+    {
+        "title": "Lure",
+        "origin": "San Fierro",
+        "giver": "Wu Zi Mu",
+        "description": "The Da Nang Boys are after Ran Fa Li, preventing him from going back home. CJ thinks of a plan to lure the Da Nang Boys by acting as a decoy so that Ran Fa Li and his assistants can leave Chinatown safely.",
+        "objective": "Act as a decoy for Ran Fa Li, and lead the Da Nang Boys on a chase through the countryside.",
+        "reward": "$8000\nRespect"
+    },
+    {
+        "title": "Amphibious Assault",
+        "origin": "San Fierro",
+        "giver": "Wu Zi Mu",
+        "description": "Woozie plans to plant a bug on a ship owned by the Da Nang boys. He asks CJ to do it, but CJ initially refuses as he is scared of swimming. Woozie admits that he cannot do it as he is blind, leading CJ to finally agree.",
+        "objective": "Plant a bug on a ship of the Da Nang Boys.",
+        "reward": "$11000\nRespect"
+    },
+    {
+        "title": "The Da Nang Thang",
+        "origin": "San Fierro",
+        "giver": "Wu Zi Mu",
+        "description": "Woozie is informed by his Triad that the Da Nang Boys have arrived with their leader, The Snakehead, on a freighter ship. They brought along some refugees locked inside a container as well. CJ and the Triad launch an attack on the ship.",
+        "objective": "Sneak on board, release some slaves from the ship, and kill The Snakehead.",
+        "reward": "$15000\nRespect"
+    },
+    {
+        "title": "Snail Trail",
+        "origin": "San Fierro",
+        "giver": "C.R.A.S.H.",
+        "description": "CJ meets Tenpenny and Pulaski in his office. Tenpenny informs CJ about a journalist who is trying to investigate Pulaski and orders CJ to kill both him and a reporter meeting him.",
+        "objective": "Take out the reporter and the journalist.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Ice Cold Killa",
+        "origin": "San Fierro",
+        "giver": "Triads",
+        "description": "Woozie has left a message about the meeting between the Ballas and the Loco Syndicate, but CJ has to find out where the meeting will take place. The only way to find out is through Jizzy's phone, so CJ decides to kill Jizzy to take his phone and discover the meeting's location.",
+        "objective": "Break into the Pleasure Domes and kill Jizzy B.",
+        "reward": "$12000\nRespect"
+    },
+    {
+        "title": "Pier 69",
+        "origin": "San Fierro",
+        "giver": "Triads",
+        "description": "CJ finds out that the meeting will take place at Pier 69. CJ and Cesar plan to stop the meeting with help from Woozie's Triads before the deal is successful.",
+        "objective": "Raid a deal between the Ballas and the Loco Syndicate to kill T-Bone Mendez and Ryder.",
+        "reward": "$15000\nRespect"
+    },
+    {
+        "title": "Toreno's Last Flight",
+        "origin": "San Fierro",
+        "giver": "Triads",
+        "description": "Woozie informs CJ that Mike Toreno's helicopter is at the police headquarters about to take off. CJ invades the place to stop the helicopter.",
+        "objective": "Shoot down Mike Toreno's helicopter.",
+        "reward": "$18000\nRespect"
+    },
+    {
+        "title": "Yay Ka-Boom-Boom",
+        "origin": "San Fierro",
+        "giver": "Triads",
+        "description": "The Loco Syndicate has almost come to an end. Woozie says that the only thing left is to destroy the crack factory in Doherty to end the Syndicate for good.",
+        "objective": "Blow up the Loco Syndicate's drug factory.",
+        "reward": "$25000\nRespect\nAccess to Tierra Robada, Bone County, and Las Venturas"
+    },
+    {
+        "title": "Back to School",
+        "origin": "San Fierro",
+        "giver": "School",
+        "description": "Learn some advanced driving techniques.",
+        "objective": "Learn some advanced driving techniques.",
+        "reward": "Driving skill increased\nSuper GT (for all Bronze), Bullet (for all Silver) and Hotknife (for all Gold) spawn outside the school\nWang Cars showroom available to purchase"
+    },
+    {
+        "title": "Zeroing In",
+        "origin": "San Fierro",
+        "giver": "Cesar Vialpando",
+        "description": "Zero reveals he has prepared a tracking automobile that tracks the cellphone signals made by the driver. CJ uses it to steal a vehicle.",
+        "objective": "Steal a car with the help of a tracking system.",
+        "reward": "$5000\nRespect\nUranus in Wang Cars showroom\nWheel Arch Angels available"
+    },
+    {
+        "title": "Test Drive",
+        "origin": "San Fierro",
+        "giver": "Cesar Vialpando",
+        "description": "Cesar informs CJ that he has located two more cars on a customer's wishlist. CJ and Cesar drive to an automobile showroom to steal the cars.",
+        "objective": "Steal and test some racing cars with Cesar.",
+        "reward": "$5000\nRespect\nElegy and Sultan in Wang Cars showroom"
+    },
+    {
+        "title": "Customs Fast Track",
+        "origin": "San Fierro",
+        "giver": "Cesar Vialpando",
+        "description": "Cesar reveals that there is another car that is loaded onto a container in Easter Basin. Cesar and CJ head to the docks to find it.",
+        "objective": "Steal a car from a container at the docks and beat the security guards.",
+        "reward": "Up to $10,000\nRespect\nSavanna in Wang Cars showroom\nExports and Imports"
+    },
+    {
+        "title": "Puncture Wounds",
+        "origin": "San Fierro",
+        "giver": "Cesar Vialpando",
+        "description": "Cesar is angry because he failed to steal a car, saying that the driver is too fast. CJ plans to use stingers to stop and puncture the car.",
+        "objective": "Use stingers to steal a Stratum.",
+        "reward": "$5000\nRespect\nStratum in Wang Cars showroom\nWang Cars showroom as an asset"
+    },
+    {
+        "title": "Monster",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "Mike Toreno",
+        "description": "CJ walks into a mysterious voice, who seems to know about CJ's family. The voice tells CJ that he needs to impress him by driving a Monster Truck within the time limit.",
+        "objective": "Complete a time trial in a Monster Truck.",
+        "reward": "Money depending on time:\n$5000 (< 4:20)\n$4000 (4:20 - 5:00)\n$3000 (5:00 - 5:30)\n$2000 (5:30 - 6:00)\n$1000 (6:00 - 6:30)"
+    },
+    {
+        "title": "Highjack",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "Mike Toreno",
+        "description": "Mike Toreno, the man behind the mysterious voice, surprises CJ and reveals his real identity to him. Toreno wants CJ to do some tasks for him, the first one being commandeering a tanker truck.",
+        "objective": "Hijack a tanker and drive it back to Doherty with Cesar.",
+        "reward": "$7000"
+    },
+    {
+        "title": "Interdiction",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "Mike Toreno",
+        "description": "Mike Toreno explains to CJ his brother's status and Frank Tenpenny's crimes. He states that a cargo helicopter is delivering contraband and wants CJ to collect it by defending the helicopter.",
+        "objective": "Escort and protect Toreno's helicopter, then take the contraband dropped by it.",
+        "reward": "$1000"
+    },
+    {
+        "title": "Verdant Meadows",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "Mike Toreno",
+        "description": "After CJ successfully does Mike Toreno's favor, Toreno wants him to purchase an abandoned airstrip in Bone County.",
+        "objective": "Purchase the Verdant Meadows airstrip in Bone County.",
+        "reward": "Respect\nVerdant Meadows Airfield available to purchase"
+    },
+    {
+        "title": "Learning to Fly",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "Mike Toreno",
+        "description": "Toreno tells CJ to learn to fly by taking flying lessons at the airstrip. CJ initially refuses but accepts after Toreno tells him that this is a step toward his brother's release from prison.",
+        "objective": "Complete the ten Pilot School courses.",
+        "reward": "Respect\nPilot's license (if the player has a low flying skill stat before finishing this mission)\nIncreased Flying Skill\nRustler spawns at Verdant Meadows\nPolice Maverick spawns on the roof of the Los Santos Police Headquarters\nRaindance spawns on Santa Maria Beach\nStuntplane spawns at Verdant Meadows (if the player has completed all tests with silver medals)\nHunter spawns at the Easter Basin Naval Station (always) and at Verdant Meadows (if the player has completed all tests with gold medals)\nLas Venturas safehouses purchasable\n6-star wanted level achievable\nAll aircraft in Easter Bay Airport apart from the Maverick are unlocked\nVictim"
+    },
+    {
+        "title": "N.O.E.",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "Mike Toreno",
+        "description": "Toreno explains that his agents are in trouble and need some equipment. Toreno wants CJ to deliver a package of equipment using a plane before nightfall.",
+        "objective": "Fly under the radar to Angel Pine and back within the time limit.",
+        "reward": "$15000"
+    },
+    {
+        "title": "Stowaway",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "Mike Toreno",
+        "description": "A cargo plane arrives at the airstrip with some government agents. Toreno reveals that those people are from a rival agency. Toreno wants CJ to kill all the agents and blow up the plane.",
+        "objective": "Destroy a government plane.",
+        "reward": "$20000"
+    },
+    {
+        "title": "Black Project",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "The Truth",
+        "description": "CJ meets The Truth at the airstrip. Truth questions CJ about working for the government and then explains to him about a powerful military base where the Black Project is being developed. The Truth wants CJ to steal the Black Project.",
+        "objective": "Break into Area 69 and steal the Black Project.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Green Goo",
+        "origin": "Desert Missions (Tierra Robada, Bon",
+        "giver": "The Truth",
+        "description": "The Truth flies the Jetpack that CJ has stolen, but falls off due to being unable to control it. Truth tells CJ to steal unknown stuff from a train using the Jetpack.",
+        "objective": "Using the Jetpack, steal the Green Goo from a train.",
+        "reward": "$20,000\nJetpack at Verdant Meadows\nVerdant Meadows Airfield as an asset"
+    },
+    {
+        "title": "Fender Ketchup",
+        "origin": "Las Venturas",
+        "giver": "Triads",
+        "description": "Woozie invites CJ to his new business, The Four Dragons Casino, in Las Venturas. CJ meets him at the casino. Woozie explains that the Mafia are causing trouble for his business. Woozie offers CJ a share in the casino, in exchange for CJ's help. A mafia thug was caught and Woozie wants to get rid of him, whereas CJ has another plan in mind.",
+        "objective": "Scare Johnny Sindacco by driving around with him on the car's windscreen.",
+        "reward": "$5000\nRespect"
+    },
+    {
+        "title": "Explosive Situation",
+        "origin": "Las Venturas",
+        "giver": "Triads",
+        "description": "CJ finds out that the Sindacco Family is the main problem for Woozie's casino. Knowing this, Woozie asks CJ to get dynamite from the Hunter Quarry.",
+        "objective": "Steal the dynamite from the Hunter Quarry.",
+        "reward": "$7000\nRespect\nQuarry Missions"
+    },
+    {
+        "title": "You've Had Your Chips",
+        "origin": "Las Venturas",
+        "giver": "Triads",
+        "description": "Woozie receives two casino chips and finds out that one of them is fake. An enraged Woozie deduces that the Sindacco Family is behind this, and wants to blow up the chip factory where these chips are made. CJ tells Woozie that he got this.",
+        "objective": "Destroy the Sindacco's fake casino chip-making machines.",
+        "reward": "$10000\nRespect"
+    },
+    {
+        "title": "Don Peyote",
+        "origin": "Las Venturas",
+        "giver": "Triads",
+        "description": "CJ receives a call from The Truth, who says that he went on a peyote safari with a band and something unknowingly happened that led to him being separated from them. Truth tells that they're in Arco del Oeste and asks CJ to go there and check whether the pair are alive or not.",
+        "objective": "Rescue Maccer and Kent Paul from the desert and bring them to Caligula's Palace, escaping the snake farmers.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Architectural Espionage",
+        "origin": "Las Venturas",
+        "giver": "Triads (Robbery)",
+        "description": "Woozie plans a heist at Caligula's Casino. To prepare for that, the first step they need to take is to get the blueprints for the casino. CJ heads to the City Planning Department where the blueprints are located to take a photo of them.",
+        "objective": "Steal the blueprints of Caligula's Casino.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Key to Her Heart",
+        "origin": "Las Venturas",
+        "giver": "Triads (Robbery)",
+        "description": "CJ and Woozie got the blueprints. The next step is to get a keycard for the casino that allows access to restricted areas in the casino. The casino's croupier has the keycard, and CJ needs to gain her trust to get the keycard.",
+        "objective": "Gain the affection of Millie Perkins to gain a keycard for the casino.",
+        "reward": "Respect\nMillie as a girlfriend\nGimp Suit"
+    },
+    {
+        "title": "Dam and Blast",
+        "origin": "Las Venturas",
+        "giver": "Triads (Robbery)",
+        "description": "CJ gained the trust of Millie Perkins and the keycard is yet to be received anytime. The next step is to establish a means of temporarily cutting the power supply to Las Venturas, so that the power could be disabled during the heist. CJ heads to the Sherman Dam to plant explosives on the generators.",
+        "objective": "Plant explosive charges on the generators at the Sherman Dam.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Cop Wheels",
+        "origin": "Las Venturas",
+        "giver": "Triads (Robbery)",
+        "description": "After planting explosive charges on the generators, CJ's next step is to steal four police bikes that need to be used as outriders for an armored vehicle where the cash is hauled off. CJ heads to steal the bikes within a limited time.",
+        "objective": "Steal four police bikes.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Up, Up and Away!",
+        "origin": "Las Venturas",
+        "giver": "Triads (Robbery)",
+        "description": "CJ has stolen the police bikes. His final step is to steal an armored truck that must be used as a getaway vehicle to haul off cash. Instead of gaining suspicion by simple carjacking, the team plans to steal a sky crane to lift the truck. CJ heads to the K.A.C.C. military depot where the sky crane is located.",
+        "objective": "Steal an armored truck using a Leviathan obtained from the K.A.C.C. Military Fuels.",
+        "reward": "Respect\nLeviathan at Verdant Meadows"
+    },
+    {
+        "title": "Intensive Care",
+        "origin": "Las Venturas",
+        "giver": "Mafia",
+        "description": "Ken Rosenberg is distressed, stating that he is under pressure from the three mafia families. To make things worse, the Forellis learn that Johnny Sindacco, whom CJ scared previously, is in a coma and they plan to kidnap him. CJ decides to rescue Johnny to keep Rosenberg safe.",
+        "objective": "Rescue Johnny Sindacco from the ambulance hijacked by the Forelli Crime Family.",
+        "reward": "$5000\nRespect"
+    },
+    {
+        "title": "The Meat Business",
+        "origin": "Las Venturas",
+        "giver": "Mafia",
+        "description": "Ken Rosenberg is out of distress and decides to visit the Sindacco Family. CJ and Rosie head to the Sindaccos' abattoir to visit Johnny Sindacco, who is recovering from a coma. However, Johnny dies of a heart attack after seeing CJ, the one who put him in this state. The Sindaccos realize the truth and launch an attack on CJ and Rosie.",
+        "objective": "Escape from the meat factory.",
+        "reward": "$8000\nRespect"
+    },
+    {
+        "title": "Fish in a Barrel",
+        "origin": "Las Venturas",
+        "giver": "Triads",
+        "description": "CJ and Ran Fa Li meet Woozie at the casino. Woozie makes both of them sign a document to become his partners in the casino.",
+        "objective": "Take co-ownership of the Four Dragons Casino.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Madd Dogg",
+        "origin": "Las Venturas",
+        "giver": "Madd Dogg",
+        "description": "CJ finds out that rapper Madd Dogg is attempting suicide because of losing everything as his rhyme book was stolen and his manager was killed. CJ advises him not to do so, but Madd Dogg ignores him and proceeds to jump.",
+        "objective": "Rescue Madd Dogg from a suicide attempt.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Freefall",
+        "origin": "Las Venturas",
+        "giver": "Mafia",
+        "description": "Salvatore Leone, the leader of the Leone Family, is at Caligula's Casino and meets CJ. He informs CJ that a plane containing Forelli hitmen is arriving at Las Venturas to kill him, and orders CJ to stop them from arriving.",
+        "objective": "Intercept, board, empty, and land a plane full of Forellis.",
+        "reward": "$15000\nRespect"
+    },
+    {
+        "title": "Misappropriation",
+        "origin": "Las Venturas",
+        "giver": "C.R.A.S.H.",
+        "description": "CJ visits C.R.A.S.H. at a house in Prickle Pine. Tenpenny is infuriated about his career coming to an end. He informs CJ about an FBI agent carrying a dossier containing information about their corruption and orders CJ to kill him and get the dossier.",
+        "objective": "Kill some federal agents in Bone County and steal a dossier.",
+        "reward": "N/A"
+    },
+    {
+        "title": "High Noon",
+        "origin": "Las Venturas",
+        "giver": "C.R.A.S.H.",
+        "description": "CJ gives C.R.A.S.H. the dossier he has stolen and asks if he's done with them, but Tenpenny is still infuriated when he attacks Jimmy Hernandez and berates him for selling them out. He then orders CJ to dig the grave for Hernandez and himself and leaves Pulaski to look after CJ while he's digging. CJ tries to convince Pulaski, but fails as Pulaski kills Hernandez and attempts to escape.",
+        "objective": "Chase and kill Eddie Pulaski.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Saint Mark's Bistro",
+        "origin": "Las Venturas",
+        "giver": "Mafia",
+        "description": "Salvatore congratulates CJ for taking out the Forellis and decides to send CJ to Marco's Bistro to take out Marco Forelli. He also allows CJ to select Paul, Maccer, and Rosenberg as his backups. However, CJ tells the three of them to leave Las Venturas, while he does the task.",
+        "objective": "Fly to Liberty City and kill Marco Forelli and his men.",
+        "reward": "$20000\nRespect\nDidier Sachs"
+    },
+    {
+        "title": "Breaking the Bank at Caligula's",
+        "origin": "Las Venturas",
+        "giver": "Triads (Robbery)",
+        "description": "Now that all the preparations are done, it's time for the ultimate heist. CJ and his crew go to rob Caligula's Casino.",
+        "objective": "Rob the Caligula's Casino and escape back to the airstrip.",
+        "reward": "$100000\nRespect"
+    },
+    {
+        "title": "A Home in the Hills",
+        "origin": "Las Venturas",
+        "giver": "Triads",
+        "description": "Madd Dogg has recovered and decides to go back to his mansion in Los Santos, but the mansion is seized by the Los Santos Vagos and their leader Big Poppa. CJ decides to permanently return to Los Santos to take back the mansion and use it as his new base of operations.",
+        "objective": "Retake Madd Dogg's Crib and kill Big Poppa.",
+        "reward": "Respect\nMadd Dogg's Crib"
+    },
+    {
+        "title": "Vertical Bird",
+        "origin": "Los Santos",
+        "giver": "Mike Toreno",
+        "description": "Toreno returns to CJ and requests for another task to be performed by him in exchange for his brother's release from prison.",
+        "objective": "Steal a Hydra from an aircraft carrier and use it to destroy some spy ships while defending against enemy jets.",
+        "reward": "$50000\nRespect\nHydra at Verdant Meadows\nWeapons at Mike Toreno's Ranch"
+    },
+    {
+        "title": "Home Coming",
+        "origin": "Los Santos",
+        "giver": "Mike Toreno",
+        "description": "Toreno asks for one final job to be done by CJ, but CJ gets annoyed and threatens to kill him. CJ, however, receives a call from his brother Sweet saying that he has been released from prison. CJ asks Toreno what the job is, with Toreno saying none other than picking up his brother.",
+        "objective": "Pick up Sweet from the police station, take out some drug dealers, and reclaim Ganton from the Ballas.",
+        "reward": "Respect\nGang Warfare reenabled"
+    },
+    {
+        "title": "Cut Throat Business",
+        "origin": "Los Santos",
+        "giver": "Madd Dogg",
+        "description": "Madd Dogg finds out that the rival rapper OG Loc is at a video shoot and that the rhymes by Loc are actually from his book that CJ stole for Loc before. CJ and Madd Dogg decide to go to the shoot to interrupt Loc.",
+        "objective": "Chase OG Loc to reclaim Madd Dogg's rhyme book.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Beat Down on B Dup",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Sweet is about to smoke crack from one of B Dup's crack whores and is stopped by CJ. CJ and Sweet go to confront B Dup at his house, only to find out that B Dup has shifted to Glen Park. They then head to Glen Park.",
+        "objective": "Start a gang war to reclaim Glen Park, and then confront B Dup.",
+        "reward": "Respect"
+    },
+    {
+        "title": "Grove 4 Life",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Sweet is happy to see the Grove Street Families back. He then comes into an argument with CJ about CJ abandoning Grove Street. CJ admits to it and then both of them set out to put Grove Street back on the map.",
+        "objective": "Claim two areas of Idlewood from the Ballas.",
+        "reward": "$10000\nRespect"
+    },
+    {
+        "title": "Riot",
+        "origin": "Los Santos",
+        "giver": "Carl Johnson",
+        "description": "CJ and his group find out in the news that Tenpenny is finally arrested due to his corruption, but then, due to lack of evidence, he is released. This leads to riots all over the city.",
+        "objective": "Drive to Grove Street from the mansion and witness the riot.",
+        "reward": "N/A"
+    },
+    {
+        "title": "Los Desperados",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "Cesar asks CJ for help in taking back his hood from the Vagos. CJ says that he is worried about his own hood, but Sweet tells CJ to pay his debts to his friends.",
+        "objective": "Help Cesar retake the Varrios Los Aztecas territory from the Vagos.",
+        "reward": "Respect"
+    },
+    {
+        "title": "End of the Line",
+        "origin": "Los Santos",
+        "giver": "Sweet Johnson",
+        "description": "After finding out where Big Smoke is hiding, CJ and Sweet decide to bring justice to the city by eliminating both Smoke and Tenpenny.",
+        "objective": "Take out Big Smoke in his crack palace, and chase down Frank Tenpenny to end things once and for all.",
+        "reward": "Respect\n$250000"
+    }
+]
