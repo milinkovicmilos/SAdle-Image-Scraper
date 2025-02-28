@@ -1,9 +1,6 @@
 <?php
 
-define("HOST", "");
-define("DBNAME", "");
-define("USERNAME", "");
-define("PASSWORD", "");
+include_once "constants.php";
 
 $db = new PDO("mysql:host=" . HOST . ";dbname=" . DBNAME . ";user=" . USERNAME . ";password=" . PASSWORD);
 
@@ -19,6 +16,8 @@ try {
   }
 
   $i = 1;
+  $j = 0;
+  $urlFile = file(__DIR__ . "/url_list.txt");
   foreach ($songFile as $songString) {
     $songString = trim($songString);
     if ($songString == "") {
@@ -31,12 +30,14 @@ try {
     $obj->authorName = trim($arr[0]);
     $obj->name = trim($arr[1]);
     $obj->radioId = $i;
+    $obj->video_id = $urlFile[$j];
     $songs[] = $obj;
+    $j++;
   }
   var_dump($songs);
   foreach ($songs as $song) {
-    $prepared = $db->prepare("INSERT INTO songs (radio_id, name, author_name) VALUES (?,?,?)");
-    $prepared->execute([$song->radioId, $song->name, $song->authorName]);
+    $prepared = $db->prepare("INSERT INTO songs (radio_id, name, author_name, video_id) VALUES (?,?,?,?)");
+    $prepared->execute([$song->radioId, $song->name, $song->authorName, $song->video_id]);
   }
 
 
