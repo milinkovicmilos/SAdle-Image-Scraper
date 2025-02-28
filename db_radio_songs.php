@@ -1,6 +1,11 @@
 <?php
 
-include_once "constants.php";
+$env = file(".env");
+foreach ($env as $row) {
+  $row = trim($row);
+  list($name, $value) = explode('=', $row);
+  define($name, $value);
+}
 
 $db = new PDO("mysql:host=" . HOST . ";dbname=" . DBNAME . ";user=" . USERNAME . ";password=" . PASSWORD);
 
