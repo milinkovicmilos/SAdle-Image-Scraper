@@ -35,7 +35,7 @@ try {
     $obj->authorName = trim($arr[0]);
     $obj->name = trim($arr[1]);
     $obj->radioId = $i;
-    $obj->video_id = $urlFile[$j];
+    $obj->video_id = trim($urlFile[$j]);
     $songs[] = $obj;
     $j++;
   }
