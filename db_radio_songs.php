@@ -1,11 +1,11 @@
 <?php
 
-$host = $HOST;
-$dbname = $DBNAME;
-$username = $USERNAME;
-$password = $PASSWORD;
+define("HOST", "");
+define("DBNAME", "");
+define("USERNAME", "");
+define("PASSWORD", "");
 
-$db = new PDO("mysql:host=$host;dbname=$dbname;user=$username;password=$password");
+$db = new PDO("mysql:host=" . HOST . ";dbname=" . DBNAME . ";user=" . USERNAME . ";password=" . PASSWORD);
 
 try {
   $db->exec($dbBuilder);
