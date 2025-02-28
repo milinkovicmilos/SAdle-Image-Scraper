@@ -8,8 +8,6 @@ define("PASSWORD", "");
 $db = new PDO("mysql:host=" . HOST . ";dbname=" . DBNAME . ";user=" . USERNAME . ";password=" . PASSWORD);
 
 try {
-  $db->exec($dbBuilder);
-
   $songFile = file(__DIR__ . "/songs_list.txt");
   $songs = [];
 
