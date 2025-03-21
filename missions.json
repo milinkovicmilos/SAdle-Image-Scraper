@@ -233,7 +233,7 @@
     },
     {
         "title": "Badlands",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "C.R.A.S.H.",
         "description": "After CJ is arrested and taken away from Los Santos, Tenpenny wants CJ to do tasks for him for Sweet's safety. In his first task, CJ has to kill an informant who has some information about Tenpenny and is hiding at Mount Chiliad guarded by the FBI.",
         "objective": "Take out an FBI witness for Tenpenny.",
@@ -241,7 +241,7 @@
     },
     {
         "title": "First Date",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Cesar calls CJ to tell him about his cousin, who can help him. CJ meets Cesar's cousin, Catalina, who gives him four targets for robberies that they will perform.",
         "objective": "Meet Cesar's cousin. NOTE: Choose a Robbery mission listed below after the cutscene (Tanker Commander is recommended, because this mission takes place in Dillimore, which is the player's location, removing the need to travel to Dillimore and then away from it).",
@@ -249,7 +249,7 @@
     },
     {
         "title": "Tanker Commander",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Hijack a petrol tanker in Dillimore.",
         "objective": "Hijack a petrol tanker in Dillimore.",
@@ -257,7 +257,7 @@
     },
     {
         "title": "Body Harvest",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "The Truth",
         "description": "Tenpenny introduces The Truth to CJ and tells CJ to pay Truth for the weed. Before the payment, he wants CJ to steal a combine harvester from a farm in Flint County.",
         "objective": "Steal a Combine Harvester for The Truth.",
@@ -265,7 +265,7 @@
     },
     {
         "title": "King in Exile",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Cesar Vialpando",
         "description": "CJ meets Cesar and Kendl inside the trailer in Angel Pine. Cesar informs CJ about some suspicious drug shipments across Los Santos and San Fierro. CJ tells Cesar to lay low while he will take care of them whenever he spots them.",
         "objective": "Meet Cesar and Kendl again.",
@@ -273,15 +273,15 @@
     },
     {
         "title": "First Base",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Catalina is furious at CJ for abandoning the robberies. CJ apologizes to her. While initially angry at him, Catalina shows some love toward CJ.",
-        "objective": "NOTE: Choose a Robbery mission listed below after the cutscene (Local Liquor Store is recommended).",
+        "objective": "Choose a Robbery mission.",
         "reward": "N/A"
     },
     {
         "title": "Local Liquor Store",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Rob a liquor store in Blueberry.",
         "objective": "Rob a liquor store in Blueberry.",
@@ -289,15 +289,15 @@
     },
     {
         "title": "Gone Courting",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Catalina shows her love for CJ by torturing him.",
-        "objective": "NOTE: Choose a Robbery mission listed below after the cutscene (Against All Odds is recommended).",
+        "objective": "Choose a Robbery mission.",
         "reward": "N/A"
     },
     {
         "title": "Against All Odds",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Rob the Inside Track betting shop in Montgomery.",
         "objective": "Rob the Inside Track betting shop in Montgomery.",
@@ -305,15 +305,15 @@
     },
     {
         "title": "Made in Heaven",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Catalina tells CJ that she does not love him anymore and wants to be just his partner.",
-        "objective": "NOTE: Choose a Robbery mission listed below after the cutscene (Small Town Bank is recommended).",
+        "objective": "Choose a Robbery mission.",
         "reward": "N/A"
     },
     {
         "title": "Small Town Bank",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Catalina",
         "description": "Rob a bank in Palomino Creek.",
         "objective": "Rob a bank in Palomino Creek.",
@@ -321,7 +321,7 @@
     },
     {
         "title": "Wu Zi Mu",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Cesar Vialpando",
         "description": "Cesar invites CJ for a race across Red County. Wu Zi Mu, the race organizer, arrives and says that this race will reward the winner with either cash or a pink slip.",
         "objective": "Race against Wu Zi Mu.",
@@ -329,7 +329,7 @@
     },
     {
         "title": "Farewell, My Love...",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "Cesar Vialpando",
         "description": "Catalina confronts CJ again and introduces to him her new boyfriend, Claude. Calling CJ jealous and a coward, Catalina challenges him to a race.",
         "objective": "Race against Catalina and her new boyfriend, Claude.",
@@ -337,7 +337,7 @@
     },
     {
         "title": "Are You Going to San Fierro?",
-        "origin": "Countryside Missions (Red County, Flint County, W",
+        "origin": "Countryside",
         "giver": "The Truth",
         "description": "After being rewarded a garage in San Fierro, CJ meets The Truth at his farm and pays him for the weed. Later, both are ambushed by the police. Truth tells CJ that they must burn the weed and leave the place.",
         "objective": "Burn down The Truth's cannabis plantation and drive to San Fierro.",
@@ -553,7 +553,7 @@
     },
     {
         "title": "Monster",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "Mike Toreno",
         "description": "CJ walks into a mysterious voice, who seems to know about CJ's family. The voice tells CJ that he needs to impress him by driving a Monster Truck within the time limit.",
         "objective": "Complete a time trial in a Monster Truck.",
@@ -561,7 +561,7 @@
     },
     {
         "title": "Highjack",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "Mike Toreno",
         "description": "Mike Toreno, the man behind the mysterious voice, surprises CJ and reveals his real identity to him. Toreno wants CJ to do some tasks for him, the first one being commandeering a tanker truck.",
         "objective": "Hijack a tanker and drive it back to Doherty with Cesar.",
@@ -569,7 +569,7 @@
     },
     {
         "title": "Interdiction",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "Mike Toreno",
         "description": "Mike Toreno explains to CJ his brother's status and Frank Tenpenny's crimes. He states that a cargo helicopter is delivering contraband and wants CJ to collect it by defending the helicopter.",
         "objective": "Escort and protect Toreno's helicopter, then take the contraband dropped by it.",
@@ -577,7 +577,7 @@
     },
     {
         "title": "Verdant Meadows",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "Mike Toreno",
         "description": "After CJ successfully does Mike Toreno's favor, Toreno wants him to purchase an abandoned airstrip in Bone County.",
         "objective": "Purchase the Verdant Meadows airstrip in Bone County.",
@@ -585,15 +585,15 @@
     },
     {
         "title": "Learning to Fly",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "Mike Toreno",
         "description": "Toreno tells CJ to learn to fly by taking flying lessons at the airstrip. CJ initially refuses but accepts after Toreno tells him that this is a step toward his brother's release from prison.",
         "objective": "Complete the ten Pilot School courses.",
-        "reward": "Respect\nPilot's license (if the player has a low flying skill stat before finishing this mission)\nIncreased Flying Skill\nRustler spawns at Verdant Meadows\nPolice Maverick spawns on the roof of the Los Santos Police Headquarters\nRaindance spawns on Santa Maria Beach\nStuntplane spawns at Verdant Meadows (if the player has completed all tests with silver medals)\nHunter spawns at the Easter Basin Naval Station (always) and at Verdant Meadows (if the player has completed all tests with gold medals)\nLas Venturas safehouses purchasable\n6-star wanted level achievable\nAll aircraft in Easter Bay Airport apart from the Maverick are unlocked\nVictim"
+        "reward": "Respect\nPilot's license (if the player has a low flying skill stat before finishing this mission)\nIncreased Flying Skill\nRustler spawns at Verdant Meadows\nPolice Maverick spawns on the roof of the Los Santos Police Headquarters\nRaindance spawns on Santa Maria Beach\nStuntplane spawns at Verdant Meadows (if the player has completed all tests with silver medals)\nHunter spawns at the Easter Basin Naval Station (always) and at Verdant Meadows (if the player has completed all tests with gold medals)\nLas Venturas safehouses purchasable\n6-star wanted level achievable\nAll aircraft in Easter Bay Airport apart from the Maverick are unlocked\nVictim clothing store"
     },
     {
         "title": "N.O.E.",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "Mike Toreno",
         "description": "Toreno explains that his agents are in trouble and need some equipment. Toreno wants CJ to deliver a package of equipment using a plane before nightfall.",
         "objective": "Fly under the radar to Angel Pine and back within the time limit.",
@@ -601,7 +601,7 @@
     },
     {
         "title": "Stowaway",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "Mike Toreno",
         "description": "A cargo plane arrives at the airstrip with some government agents. Toreno reveals that those people are from a rival agency. Toreno wants CJ to kill all the agents and blow up the plane.",
         "objective": "Destroy a government plane.",
@@ -609,7 +609,7 @@
     },
     {
         "title": "Black Project",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "The Truth",
         "description": "CJ meets The Truth at the airstrip. Truth questions CJ about working for the government and then explains to him about a powerful military base where the Black Project is being developed. The Truth wants CJ to steal the Black Project.",
         "objective": "Break into Area 69 and steal the Black Project.",
@@ -617,7 +617,7 @@
     },
     {
         "title": "Green Goo",
-        "origin": "Desert Missions (Tierra Robada, Bon",
+        "origin": "Desert Missions",
         "giver": "The Truth",
         "description": "The Truth flies the Jetpack that CJ has stolen, but falls off due to being unable to control it. Truth tells CJ to steal unknown stuff from a train using the Jetpack.",
         "objective": "Using the Jetpack, steal the Green Goo from a train.",
@@ -658,7 +658,7 @@
     {
         "title": "Architectural Espionage",
         "origin": "Las Venturas",
-        "giver": "Triads (Robbery)",
+        "giver": "Triads",
         "description": "Woozie plans a heist at Caligula's Casino. To prepare for that, the first step they need to take is to get the blueprints for the casino. CJ heads to the City Planning Department where the blueprints are located to take a photo of them.",
         "objective": "Steal the blueprints of Caligula's Casino.",
         "reward": "Respect"
@@ -666,7 +666,7 @@
     {
         "title": "Key to Her Heart",
         "origin": "Las Venturas",
-        "giver": "Triads (Robbery)",
+        "giver": "Triads",
         "description": "CJ and Woozie got the blueprints. The next step is to get a keycard for the casino that allows access to restricted areas in the casino. The casino's croupier has the keycard, and CJ needs to gain her trust to get the keycard.",
         "objective": "Gain the affection of Millie Perkins to gain a keycard for the casino.",
         "reward": "Respect\nMillie as a girlfriend\nGimp Suit"
@@ -674,7 +674,7 @@
     {
         "title": "Dam and Blast",
         "origin": "Las Venturas",
-        "giver": "Triads (Robbery)",
+        "giver": "Triads",
         "description": "CJ gained the trust of Millie Perkins and the keycard is yet to be received anytime. The next step is to establish a means of temporarily cutting the power supply to Las Venturas, so that the power could be disabled during the heist. CJ heads to the Sherman Dam to plant explosives on the generators.",
         "objective": "Plant explosive charges on the generators at the Sherman Dam.",
         "reward": "Respect"
@@ -682,7 +682,7 @@
     {
         "title": "Cop Wheels",
         "origin": "Las Venturas",
-        "giver": "Triads (Robbery)",
+        "giver": "Triads",
         "description": "After planting explosive charges on the generators, CJ's next step is to steal four police bikes that need to be used as outriders for an armored vehicle where the cash is hauled off. CJ heads to steal the bikes within a limited time.",
         "objective": "Steal four police bikes.",
         "reward": "Respect"
@@ -690,7 +690,7 @@
     {
         "title": "Up, Up and Away!",
         "origin": "Las Venturas",
-        "giver": "Triads (Robbery)",
+        "giver": "Triads",
         "description": "CJ has stolen the police bikes. His final step is to steal an armored truck that must be used as a getaway vehicle to haul off cash. Instead of gaining suspicion by simple carjacking, the team plans to steal a sky crane to lift the truck. CJ heads to the K.A.C.C. military depot where the sky crane is located.",
         "objective": "Steal an armored truck using a Leviathan obtained from the K.A.C.C. Military Fuels.",
         "reward": "Respect\nLeviathan at Verdant Meadows"
@@ -762,7 +762,7 @@
     {
         "title": "Breaking the Bank at Caligula's",
         "origin": "Las Venturas",
-        "giver": "Triads (Robbery)",
+        "giver": "Triads",
         "description": "Now that all the preparations are done, it's time for the ultimate heist. CJ and his crew go to rob Caligula's Casino.",
         "objective": "Rob the Caligula's Casino and escape back to the airstrip.",
         "reward": "$100000\nRespect"
